@@ -1,0 +1,1 @@
+# Google_Colab_Numpy_Ultraquick_Tutorial
